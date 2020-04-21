@@ -1,0 +1,7 @@
+[books]
+git-tree-sha1 = "aaec206f133b2c1e6ac0303ba043aaeaaa713394"
+lazy = true
+
+    [[books.download]]
+    url="https://github.com/findmyway/connect4/releases/download/book/books.tar.gz"
+    sha256="9a4e1e4e60bab1c42d474fd7b517d34d69b7545d7905c1004b719e26624fe49d"
